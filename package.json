@@ -20,7 +20,7 @@
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
