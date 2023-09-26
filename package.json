@@ -12,7 +12,7 @@
     "@babel/preset-react": "^7.22.5",
     "babel-loader": "^8.3.0",
     "css-loader": "^5.2.7",
-    "prettier": "2.0.5",
+    "prettier": "3.0.3",
     "sass": "^1.68.0",
     "sass-loader": "^8.0.2",
     "style-loader": "^2.0.0",
